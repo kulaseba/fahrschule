@@ -1,6 +1,7 @@
 ## Speed
 
 Reaktionsweg = `(Geschwindigkeit / 10) * 3`
+
 Reaction Distance = `(Speed / 10) * 3`
 
 *Question*
