@@ -8,4 +8,5 @@ You can see that the rear fog light is switched on by the yellow control light.
 
 ### Parking Light (or "Limiting Light")
 > must be used when the vehicle is parked outside closed places.
+
 > is the one-sided lighting of the car and may only be used within closed localities.
