@@ -9,3 +9,9 @@ Reaction Distance = `(Speed / 10) * 3`
 
 *Answer*
 > (50 / 10) * 3 = **15m**
+
+*Question*
+> What is the maximum speed a truck with a permissible total mass of 3.0 t and trailer may be driven on autobahns?
+
+*Answer*
+> **80 km/h**
