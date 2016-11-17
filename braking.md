@@ -5,6 +5,7 @@ Bremsweb = `(Geschwindigkeit / 10) * (Geschwindigkeit / 10)`
 Braking Distance = `(Speed / 10) * (Speed / 10)`
 
 **Examples**:
+
 | Speed  | Braking Distance |
 | ------------- | ------------- |
 | 30 km/h  | 9m  |
