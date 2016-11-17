@@ -4,6 +4,14 @@ Reaktionsweg = `(Geschwindigkeit / 10) * 3`
 
 Reaction Distance = `(Speed / 10) * 3`
 
+**Examples**:
+| Speed  | Reaction Distance |
+| ------------- | ------------- |
+| 30 km/h  | 9m  |
+| 50 km/h  | 15m |
+| 60 km/h  | 18m |
+| 100 km/h  | 30m |
+
 *Question*
 > You are travelling at 50 km/h and have a reaction time of 1 second. What is the reaction distance according to the rule of thumb?
 
