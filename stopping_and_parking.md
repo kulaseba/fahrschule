@@ -5,9 +5,9 @@
 
 ### Parking is not permitted:
 > Before and behind railroad crossings (St. Andrews Cross):
-- Within the village / 5m 
+- Within the village / 5 m 
 - Outside the village / 50 m 
-- If the crossing marker (St. Andrews Cross) would be covered by the vehicle, it may be up to 10m in front of it not be parked.
+- If the crossing marker (St. Andrews Cross) would be covered by the vehicle, it may be up to 10 m in front of it not be parked.
 
 
 > Up to 15m in front of and behind the traffic sign "stop"
