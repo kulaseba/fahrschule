@@ -19,6 +19,6 @@
 > At the edge of the roadway if it would prevent others from using designated parking areas
 
 ### Parking is permitted
-> On one-way streets
-
-> Where there are rails on the right-hand side
+> To the left, in the direction of travel
+- On one-way streets
+- Where there are rails on the right-hand side
