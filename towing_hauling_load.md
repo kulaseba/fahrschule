@@ -9,3 +9,8 @@
 ### Load
 
 > **2.5 m**: Max. height a load is allowed to project above of the vehicle. In other words, the load may not exceed a height of 2.5 m above the vehicle
+
+**What can be the effect of an overload of only 20%?**
+- The brakes may be overstrained
+- Steering may become worse
+- There may be too much strain on the load-bearing parts of the vehicle
