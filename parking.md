@@ -3,6 +3,7 @@
 > There must be at least 3 m distance between the vehicle parked and the lane divider.
 
 ### Parking is NOT permitted
+
 > Before and behind railroad crossings (St. Andrews Cross):
 - Within the village / 5 m 
 - Outside the village / 50 m 
@@ -19,6 +20,7 @@
 > At the edge of the roadway if it would prevent others from using designated parking areas
 
 ### Parking is permitted
-> To the left, in the direction of travel
+
+> To the left, in the direction of travel:
 - On one-way streets
 - Where there are rails on the right-hand side
