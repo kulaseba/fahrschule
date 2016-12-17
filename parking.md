@@ -1,7 +1,6 @@
-## Stopping and Parking
+## Parking
 
 > There must be at least 3 m distance between the vehicle parked and the lane divider.
-> Max. time allowed to stop at bus stop provided there is no obstruction to busses: **3 min**
 
 ### Parking is not permitted:
 > Before and behind railroad crossings (St. Andrews Cross):
