@@ -11,6 +11,10 @@
   - load of the coupling
   - total mass
   - axle load
+  
+**What changes when a caravan trailer is towed?**
+- The distance for overtaking increases considerably
+- Hasty movements of the steering wheel increase the danger of skidding
 
 ### Load
 
