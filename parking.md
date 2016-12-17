@@ -21,6 +21,6 @@
 
 ### Parking is permitted
 
-> To the left, in the direction of travel:
+> On the left side of the road, in the direction of travel:
 - On one-way streets
 - Where there are rails on the right-hand side
