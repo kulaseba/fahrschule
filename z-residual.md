@@ -7,6 +7,13 @@
 - ~~By using all-terrain tires~~
 - ~~By removing the air filter~~
 
+### Safety Belts
+
+**Why is it dangerous not to wear safety belts?**
+- Because you cannot adequately protect yourself in case of an impact at a speed of about 20 km/h
+- Because in case of an accident, you can be projected out of the vehicle
+- ~~Because of the low speed, there is no danger in urban traffic~~
+
 ### Skidding
 
 **What can cause skidding on bends?**

@@ -15,6 +15,9 @@
 > Up to 15 m before or after a bus/tram stop sign
 - parking is allowed only **15 m or more** away from the stop/sign.
 
+**Up to what distance is it NOT allowed to park before or behind a bus or tram stop sign?**
+- 15 m in both cases
+
 > On priority roads **outside** built-up areas
 
 > At the edge of the roadway if it would prevent others from using designated parking areas

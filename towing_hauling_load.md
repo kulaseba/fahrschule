@@ -22,6 +22,14 @@
 - The distance for overtaking increases considerably
 - Hasty movements of the steering wheel increase the danger of skidding
 
+**What must you remember when you want to use a trailer with overrun brakes behind your car?**
+- The permissable total mass of the trailer must not exceed the towed load permitted for the car
+- ~~The permissable maximum speed of this combination of vehicles is 60 km/h, also on autobahns~~
+- The breakaway cable is connected to the towing vehicle
+
+**What is the maximum number of trailers allowed to be towed by a class B truck?**
+- 1 trailer
+
 ### Load
 
 > **2.5 m**: Max. height a load is allowed to project above of the vehicle. In other words, the load may not exceed a height of 2.5 m above the vehicle
@@ -37,3 +45,10 @@
 - The permissable total mass of the car
 - ~~The roof load indicated in the vehicle registration certificate (Fahrzeugschein)~~
 - The stipulations of the vehicle's manufacturer in the owner's manual
+
+### Hauling
+
+**What must be remembered with regard to vehicles with canvas covers?**
+- ~~When vehicles have canvas covers, a load must not be specially secured~~
+- The canvas covers must not obstruct the driver's rear view through the outside mirrors
+- Unloaded trailers with high canvas cover superstructure are particularly sensitive to side wind
