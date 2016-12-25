@@ -1,9 +1,11 @@
 ## Braking
 
 (Standard) Bremsweb = `(Geschwindigkeit / 10) * (Geschwindigkeit / 10)`
+
 [Standard Braking Distance](http://app.fahrschulcard.de/book/b-buch/08/navpoint3) = `(Speed / 10) * (Speed / 10)`
 
 (Evasive) Bremsweb = `((Geschwindigkeit / 10) * (Geschwindigkeit / 10)) / 2`
+
 [Evasive Braking Distance](http://app.fahrschulcard.de/book/b-buch/08/navpoint3) = `((Speed / 10) * (Speed / 10)) / 2`
 
 **Examples**:
