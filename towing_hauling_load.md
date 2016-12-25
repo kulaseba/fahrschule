@@ -26,3 +26,8 @@
 - The brakes may be overstrained
 - Steering may become worse
 - There may be too much strain on the load-bearing parts of the vehicle
+
+**You want to transport holiday luggage on the roof of your fully loaded car. What is the roof load limited by?**
+- The permissable total mass of the car
+- ~~The roof load indicated in the vehicle registration certificate (Fahrzeugschein)~~
+- The stipulations of the vehicle's manufacturer in the owner's manual

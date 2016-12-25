@@ -24,3 +24,8 @@ Reaction Distance = `(Speed / 10) * 3`
 
 *Answer*
 > **80 km/h**
+
+**You drive around a bend once at 30 km/h and again at 60 km/h. How dows the centrifugal force change?**
+- ~~is twice as high~~
+- is four times as high
+- ~~is the same~~

@@ -18,3 +18,8 @@ Braking Distance = `(Speed / 10) * (Speed / 10)`
 
 *Answer*
 > It is quadrupled from 25 m to 100 m `(100 / 10) * (100 / 10) = 100 m`
+
+**What is the effect of an automatic anti-locking device (ABS)?**
+- The vehicle is braked in the best possible way also on wet roadways
+- ~~Aquaplaning is prevented~~
+- Steering control is largely retained when braking
