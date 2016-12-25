@@ -19,7 +19,7 @@
 
 *Evasive*
 
-| Speed  | Evasive Braking Distance |
+| Speed  | Braking Distance |
 | ------------- | ------------- |
 | 30 km/h  | 4.5 m  |
 | 50 km/h  | 12.5 m |
