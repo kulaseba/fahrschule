@@ -13,3 +13,13 @@
 - ~~The rule "right before left" applies without exception at all crossroads and junctions~~
 - ~~A better developed road always has priority~~
 - Intersecting roads may have priority even though they are narrow and less well developed
+
+**You are approaching a crossroads where the priority situation is not clear to you straightaway. What do you do?**
+- Wait, observe and come to an agreement with others, if necessary
+- ~~Proceed according to the rule "right before left"~~
+- ~~Always proceed when driving straight ahead~~
+
+**You want to turn left. What difficulties could arise here?**
+- Visibility restrictions caused by oncoming vehicles
+- Traffic turning left can come dangerously close
+- Misunderstandings with oncoming traffic turning left

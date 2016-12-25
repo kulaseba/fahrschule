@@ -15,3 +15,10 @@ You can see that the rear fog light is switched on by the yellow control light.
 > must be used when the vehicle is parked outside closed places.
 
 > is the one-sided lighting of the car and may only be used within closed localities.
+
+### Residual
+
+**You are driving with main beam lights on in darkness. When do you have to dip your headlights?**
+- ~~If there are pedestrians moving in the same direction in front of me~~
+- If I am driving on a road with constant, adequate lighting
+- If I am required to wait at a rail crossing and dazzling others

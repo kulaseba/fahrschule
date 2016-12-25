@@ -30,6 +30,12 @@
 **What is the maximum number of trailers allowed to be towed by a class B truck?**
 - 1 trailer
 
+**You want to drive a vehicle with a trailer equipped with overrun braking. What do you have to check before beginning the journey?**
+- I check:
+  - that the connecting device is locked
+  - that the breakaway cable is attached
+  - that the lighting system is working
+
 ### Load
 
 > **2.5 m**: Max. height a load is allowed to project above of the vehicle. In other words, the load may not exceed a height of 2.5 m above the vehicle
