@@ -9,6 +9,7 @@
 **Examples**:
 
 *Standard*
+
 | Speed  | Braking Distance |
 | ------------- | ------------- |
 | 30 km/h  | 9 m  |
@@ -17,6 +18,7 @@
 | 100 km/h  | 100 m |
 
 *Evasive*
+
 | Speed  | Evasive Braking Distance |
 | ------------- | ------------- |
 | 30 km/h  | 4.5 m  |
