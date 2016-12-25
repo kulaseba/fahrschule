@@ -12,6 +12,12 @@
   - total mass
   - axle load
   
+**What must you remember when loading a trailer?**
+- The load:
+  - must not project more than 1 m beyond the rear reflectors unless specially marked
+  - must be securely packed
+  - ~~must not project more than 1 m beyond the front of the towing vehicle~~
+  
 **What changes when a caravan trailer is towed?**
 - The distance for overtaking increases considerably
 - Hasty movements of the steering wheel increase the danger of skidding

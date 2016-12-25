@@ -9,7 +9,7 @@
 
 ### Skidding
 
-** What can cause skidding on bends?**
+**What can cause skidding on bends?**
 - ~~Load is too small~~
 - Faulty shock-absorbers
 - Insufficient or uneven tire pressure
