@@ -8,5 +8,5 @@
 
 ### Traffic Lights
 
-** What is the minimum distance a vehicle must leave clear in front of traffic lights if the traffic lights would be concealed by the vehicle?**
+**What is the minimum distance a vehicle must leave clear in front of traffic lights if the traffic lights would be concealed by the vehicle?**
 - 10 m
