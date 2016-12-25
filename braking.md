@@ -23,3 +23,8 @@ Braking Distance = `(Speed / 10) * (Speed / 10)`
 - The vehicle is braked in the best possible way also on wet roadways
 - ~~Aquaplaning is prevented~~
 - Steering control is largely retained when braking
+
+**When braking, you note that your vehicle pulls to the right. What should you do?**
+- ~~I do not need to fix the problem, as long as I can compensate by counter-steering~~
+- I go to a car workshop
+- ~~I oil the brake pads~~
