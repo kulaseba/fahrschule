@@ -43,3 +43,8 @@
 - ~~No locking of the wheels when braking~~
 - No wheelspin when setting off
 - Reduced danger of sliding sideways when setting off on a slippery roadway
+
+**The brake lights do not function. What can be the causes of this?**
+- Defective stop light switch
+- ~~Brake pedal travel too short~~
+- Defective bulbs
