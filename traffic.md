@@ -32,3 +32,13 @@
 **What is the minimum distance that should normally be maintained from the vehicle in front outside built-up areas?**
 - 1/2 the speedometer reading in meters
 - ~~1/5 the speedometer reading in meters~~
+
+**What applies on clearways for motor vehicles only?**
+- No U-turns
+- Join the clearway only at crossroads and junctions
+- ~~In darkness, you may drive faster than the range of visibility allowed by dipped headlights~~
+
+**Why does environment friendly driving in general have a beneficial effect on traffic safety?**
+- ~~Because you can only drive slowly using alternative fuels~~
+- Because drivers think ahead when traveling, so that possible dangers can be recognized in time and well avoided
+- Because environment friendly driving avoids high speeds so that dangerous situations occur less frequently
