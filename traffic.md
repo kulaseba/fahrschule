@@ -42,3 +42,8 @@
 - ~~Because you can only drive slowly using alternative fuels~~
 - Because drivers think ahead when traveling, so that possible dangers can be recognized in time and well avoided
 - Because environment friendly driving avoids high speeds so that dangerous situations occur less frequently
+
+**You want to overtake on a narrow avenue not within a built-up area. What must you be aware of in particular?**
+- Misjudgments of distances and oncoming traffic frequently result in serious accidents
+- Vehicles with high superstructures frequently move to avoid branches
+- Even cyclists frequently cannot be overtaken when there is oncoming traffic due to the narrow width of the roadway

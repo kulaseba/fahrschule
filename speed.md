@@ -36,3 +36,8 @@ Reaction Distance = `(Speed / 10) * 3`
 - Accelerating
 - Braking
 - ~~Disengaging the clutch~~
+
+**How can you drive fuel-efficiently when traveling at a constant speed?**
+- By driving at a low engine speed
+- By using cruise control
+- ~~By driving at a high engine speed~~
