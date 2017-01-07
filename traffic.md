@@ -4,6 +4,11 @@
 - Level crossings
 - Crossroads
 
+**Which are the areas you must NOT drive into when there is traffic congestion?**
+- Pedestrian crossings
+- ~~Bus stops with "zig-zag lines"~~
+- Junctions
+
 **Where are U-turns prohibited?**
 - On autobahns
 - ~~On farm or forest tracks~~

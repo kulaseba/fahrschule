@@ -1,5 +1,12 @@
 ## Residual
 
+## Modifications
+
+**A technical modification to your vehicle means that the operating license is extinguished. What consequences should you anticipate if you nevertheless use the vehicle on public roads?**
+- An entry into the Central Register of Road Traffic Offenders
+- A public authority fine
+- The loss of my insurance coverage
+
 ### Noise Pollution
 
 **How can you reduce the noise made by a car?**
