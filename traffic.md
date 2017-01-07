@@ -47,3 +47,8 @@
 - Misjudgments of distances and oncoming traffic frequently result in serious accidents
 - Vehicles with high superstructures frequently move to avoid branches
 - Even cyclists frequently cannot be overtaken when there is oncoming traffic due to the narrow width of the roadway
+
+**What leads frequently to serious accidents when overtaking on autobahns?**
+- ~~Driving at twice the safe distance~~
+- Driving too close to the vehicle in front
+- Not keeping a close enough eye on the traffic situation behind
