@@ -30,9 +30,9 @@
 - It is quadrupled from 25 m to 100 m `(100 / 10) * (100 / 10) = 100 m`
 
 **What is the rule of thumb when calculating the braking distance for evasive braking on a dry, even and asphalted roadway?**
-- ~~((Speed / 10) x 3) / 2~~
-- ~~((Speed / 10) x 5) / 2~~
-- ((Speed / 10) * (Speed / 10)) / 2
+- ~~`((Speed / 10) x 3) / 2`~~
+- ~~`((Speed / 10) x 5) / 2`~~
+- `((Speed / 10) * (Speed / 10)) / 2`
 
 **What is the effect of an automatic anti-locking device (ABS)?**
 - The vehicle is braked in the best possible way also on wet roadways
