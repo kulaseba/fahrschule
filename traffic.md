@@ -28,3 +28,7 @@
 - When lanes come to an end
 - ~~Where merging lanes join~~
 - If lanes are not continuously free to traffic due to an obstacle
+
+**What is the minimum distance that should normally be maintained from the vehicle in front outside built-up areas?**
+- 1/2 the speedometer reading in meters
+- ~~1/5 the speedometer reading in meters~~

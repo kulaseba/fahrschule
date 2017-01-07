@@ -22,6 +22,11 @@
 - The distance for overtaking increases considerably
 - Hasty movements of the steering wheel increase the danger of skidding
 
+**What must you check on a car with a caravan trailer before setting out on a journey?**
+- Whether the view through the rear-view mirrors is adequate
+- Whether the lights of the trailer are working
+- ~~Whether the passengers in the caravan trailer have put on their safety belts~~
+
 **What must you remember when you want to use a trailer with overrun brakes behind your car?**
 - The permissable total mass of the trailer must not exceed the towed load permitted for the car
 - ~~The permissable maximum speed of this combination of vehicles is 60 km/h, also on autobahns~~
