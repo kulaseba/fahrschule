@@ -48,3 +48,8 @@
 - Defective stop light switch
 - ~~Brake pedal travel too short~~
 - Defective bulbs
+
+**In which cases is it imperative to test the brakes?**
+- ~~Each time the engine oil is changed~~
+- When you drive a different vehicle
+- If a vehicle has not been used for a longer period

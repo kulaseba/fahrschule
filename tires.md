@@ -13,3 +13,9 @@
 - For external damage
 
 **1.6 mm**: Minimum profile depth of a tire throughout its circumference.
+
+**What is caused by driving with winter tires during the summer months?**
+- It increases:
+  - ~~driving stability~~
+  - the fuel consumption
+  - tire wear
