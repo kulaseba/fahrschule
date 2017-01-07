@@ -1,6 +1,6 @@
 ## Residual
 
-## Modifications
+### Modifications
 
 **A technical modification to your vehicle means that the operating license is extinguished. What consequences should you anticipate if you nevertheless use the vehicle on public roads?**
 - An entry into the Central Register of Road Traffic Offenders
@@ -44,6 +44,13 @@
 - By locking the doors and boot
 - ~~By activating the [differential lock](https://en.wikipedia.org/wiki/Locking_differential)~~
 - By removing the ignition key, engaging the steering wheel lock, and closing the windows
+
+### Trees
+
+**What are the special conditions when driving along tree-lined avenues?**
+- ~~The trees provide protection from the sides~~
+- The narrow and often cambered roadway requires special caution when there is oncoming traffic
+- There are particularly narrow and blind bends
 
 ### Wet Surfaces
 

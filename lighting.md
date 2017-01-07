@@ -27,3 +27,7 @@ You can see that the rear fog light is switched on by the yellow/amber control l
 - ~~If there are pedestrians moving in the same direction in front of me~~
 - If I am driving on a road with constant, adequate lighting
 - If I am required to wait at a rail crossing and dazzling others
+
+**The control light of your indicator is blinking considerably faster than usual. What can be the cause of this?**
+- ~~The direction indicator switch is defective~~
+- A bulb is defective
