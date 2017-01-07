@@ -23,3 +23,8 @@
 - Visibility restrictions caused by oncoming vehicles
 - Traffic turning left can come dangerously close
 - Misunderstandings with oncoming traffic turning left
+
+**In what situations is the alternate merging procedure to be used?**
+- When lanes come to an end
+- ~~Where merging lanes join~~
+- If lanes are not continuously free to traffic due to an obstacle

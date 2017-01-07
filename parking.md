@@ -27,3 +27,6 @@
 > On the left side of the road, in the direction of travel:
 - On one-way streets
 - Where there are rails on the right-hand side
+
+**Up to which permissable total mass may motor vehicles be parked on specially designated footpaths?**
+- 2.80t

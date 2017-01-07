@@ -31,3 +31,8 @@ Reaction Distance = `(Speed / 10) * 3`
 
 **What is the maximum speed a truck with a permissable total mass of 3.0 t and trailer may be driven on autobahns?**
 - 80 km/h
+
+**What increases the danger of "flying out" of a bend when driving at high speed?**
+- Accelerating
+- Braking
+- ~~Disengaging the clutch~~

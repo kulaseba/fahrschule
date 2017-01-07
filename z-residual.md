@@ -7,12 +7,16 @@
 - ~~By using all-terrain tires~~
 - ~~By removing the air filter~~
 
-### Safety Belts
+### Safety
 
 **Why is it dangerous not to wear safety belts?**
 - Because you cannot adequately protect yourself in case of an impact at a speed of about 20 km/h
 - Because in case of an accident, you can be projected out of the vehicle
 - ~~Because of the low speed, there is no danger in urban traffic~~
+
+**Your vehicle has no headrests on the rear seats. What can happen if your passengers sit there?**
+- ~~Risk of injury is not increased~~
+- In the event of a rear-end collision, the risk of injury to such passengers increases
 
 ### Skidding
 
