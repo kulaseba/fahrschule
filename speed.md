@@ -19,6 +19,9 @@ Reaction Distance = `(Speed / 10) * 3`
 **What is the maximum speed a truck with a permissible total mass of 3.0 t and trailer may be driven on autobahns?**
 - 80 km/h
 
+**What is the maximum speed you are allowed to drive a truck with a permissable total mass of 3.0 t on roads with one marked lane for each direction outside built-up areas?**
+- 100 km/h
+
 **You drive around a bend once at 30 km/h and again at 60 km/h. How dows the centrifugal force change?**
 - ~~is twice as high~~
 - is four times as high
@@ -28,9 +31,6 @@ Reaction Distance = `(Speed / 10) * 3`
 - Motorways
 - On vehicle roadways not inside a built-up area, with separate carriageways for each direction
 - On vehicle roadways not inside a built-up area, with at least two marked lanes for each direction
-
-**What is the maximum speed a truck with a permissable total mass of 3.0 t and trailer may be driven on autobahns?**
-- 80 km/h
 
 **What increases the danger of "flying out" of a bend when driving at high speed?**
 - Accelerating

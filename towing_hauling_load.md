@@ -52,6 +52,11 @@
 - ~~The roof load indicated in the vehicle registration certificate (Fahrzeugschein)~~
 - The stipulations of the vehicle's manufacturer in the owner's manual
 
+**Are you allowed to transport persons on the loading platform of your truck?**
+- Yes, if they must carry out necessary work _(ed. note: fire brigade?)_
+- ~~Yes, to secure the load~~
+- ~~Yes, if they have to accompany the load~~
+
 ### Hauling
 
 **What must be remembered with regard to vehicles with canvas covers?**
