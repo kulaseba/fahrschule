@@ -60,3 +60,8 @@
 
 **Between what hours does the Sunday and public holiday driving ban apply?**
 - From **0** hours to **22** hours
+
+**You are driving a slow-moving vehicle on a rural road. A line of vehicles is forming behind you. What should you do?**
+- I allow the vehicles behind me to overtake
+- ~~I switch on my hazard lights and drive as far to the right as possible~~
+- I come to a stop at a suitable place if this is the only way the vehicles behind me can overtake

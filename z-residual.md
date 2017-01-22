@@ -22,6 +22,13 @@
   - ~~continue driving at the same speed~~
   - ~~give a warning signal~~
 
+### Pollution
+
+**What is important to avoid pollution and to save energy when driving?**
+- ~~Was the engine regularly, at least four times a year~~
+- Have the engine tuning checked regularly
+- Check the fuel consumption regularly
+
 ### Safety
 
 **Why is it dangerous not to wear safety belts?**
