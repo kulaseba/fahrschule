@@ -65,3 +65,8 @@
 - I allow the vehicles behind me to overtake
 - ~~I switch on my hazard lights and drive as far to the right as possible~~
 - I come to a stop at a suitable place if this is the only way the vehicles behind me can overtake
+
+**You want to overtake cyclists. What should be noted when selecting the distance between the cyclists and the car?**
+- ~~1.0 m between the cyclist and the car is always sufficient~~
+- The speed of my vehicle
+- How the cyclists are acting
