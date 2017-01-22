@@ -14,6 +14,14 @@
 - ~~By using all-terrain tires~~
 - ~~By removing the air filter~~
 
+### Pedestrians
+
+**A pedestrian with a white stick wants to cross the road in front of you. What should you do?**
+- I have to:
+  - reduce speed and stop if necessary
+  - ~~continue driving at the same speed~~
+  - ~~give a warning signal~~
+
 ### Safety
 
 **Why is it dangerous not to wear safety belts?**
