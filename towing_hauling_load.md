@@ -46,6 +46,17 @@
 - Raise the jack wheel, if fitted, to the highest setting
 - Check that the brakes are working
 
+**What must you remember when towing?**
+- The distance between the vehicles must not exceed 5 m
+- Tow-rope/tow-bar must be clearly marked
+- ~~Motorcycles may only be towed with a fixed connection~~
+
+**Your car has a fault and can no longer be driven. What must you be aware of during towing?**
+- During towing:
+  - ~~the motorway may only be used to shorten the journey to the next car garage~~
+  - the towing cable should be kept as taut as possible
+  - the hazard lights must be switched on on both vehicles
+
 ### Load
 
 > **2.5 m**: Max. height a load is allowed to project above of the vehicle. In other words, the load may not exceed a height of 2.5 m above the vehicle

@@ -31,3 +31,8 @@ You can see that the rear fog light is switched on by the yellow/amber control l
 **The control light of your indicator is blinking considerably faster than usual. What can be the cause of this?**
 - ~~The direction indicator switch is defective~~
 - A bulb is defective
+
+**Where is it permitted to flash headlights to indicate your intention to overtake?**
+- In daylight outside built-up areas
+- ~~In darkness in built-up areas~~
+- In darkness outside built-up areas

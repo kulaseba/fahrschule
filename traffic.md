@@ -70,3 +70,13 @@
 - ~~1.0 m between the cyclist and the car is always sufficient~~
 - The speed of my vehicle
 - How the cyclists are acting
+
+**On which side must you overtake a tram which is traveling in the middle of the roadway (not a one-way street)?**
+- On the right
+- ~~On the left~~
+- ~~On the left only if other vehicles are blocking the roadway on the right~~
+
+**At which places where there are no traffic signs regulating priority does the rule "right before left" apply?**
+- ~~At junctions with sunken kerbstone~~
+- At crossroads and junctions
+- ~~At junctions of farm tracks or forest tracks with other roads~~
