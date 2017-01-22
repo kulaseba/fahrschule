@@ -30,3 +30,10 @@
 
 **Up to which permissable total mass may motor vehicles be parked on specially designated footpaths?**
 - 2.80t
+
+### Residual
+
+**A beginner violates parking regulations during his trial period and must pay an on-the-spot cautionary fine. What else must he reckon with?**
+- ~~With an imposition to attend a supplementary training seminar~~
+- ~~With having to pass a new driving test~~
+- No further measures after the on-the-spot cautionary fine has been paid

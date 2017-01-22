@@ -57,3 +57,6 @@
 - ~~Driving at twice the safe distance~~
 - Driving too close to the vehicle in front
 - Not keeping a close enough eye on the traffic situation behind
+
+**Between what hours does the Sunday and public holiday driving ban apply?**
+From **0** hours to **22** hours

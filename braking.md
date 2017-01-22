@@ -58,3 +58,7 @@
 - ~~Each time the engine oil is changed~~
 - When you drive a different vehicle
 - If a vehicle has not been used for a longer period
+
+**What particular characteristics of disc brakes must you remember when driving on a wet road surface?**
+- ~~As a rule, the effect of disc brakes starts earlier than on a dry road surface~~
+- As a rule, the effect of disc brakes starts later than on a dry road surface

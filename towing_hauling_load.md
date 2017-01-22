@@ -40,6 +40,11 @@
   - that the connecting device is locked
   - that the breakaway cable is attached
   - that the lighting system is working
+  
+**What must you do after coupling up a single-axle trailer with overrun brakes?**
+- Attach the breakaway cable to the coupling of the motor vehicle
+- Raise the jack wheel, if fitted, to the highest setting
+- Check that the brakes are working
 
 ### Load
 
