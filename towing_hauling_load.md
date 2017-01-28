@@ -57,16 +57,16 @@
   - the towing cable should be kept as taut as possible
   - the hazard lights must be switched on on both vehicles
   
-> **You are holding a driving permit class B. Your car has the following specifications:**
+**You are holding a driving permit class B. Your car has the following specifications:**
 - **empty mass 1900 kg**
 - **permissable total mass 2400 kg**
 - **permissable towed load 1500 kg**
 
-**Which trailer are you allowed to tow?**
-- A trailer with a permissable total mass of:
-  - ~~1200 kg~~
-  - 1000 kg
-  - ~~1500 kg~~
+  **Which trailer are you allowed to tow?**
+  - A trailer with a permissable total mass of:
+    - ~~1200 kg~~
+    - 1000 kg
+    - ~~1500 kg~~
 
 ### Load
 
