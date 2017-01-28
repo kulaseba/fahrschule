@@ -67,6 +67,11 @@
 - The narrow and often cambered roadway requires special caution when there is oncoming traffic
 - There are particularly narrow and blind bends
 
+**What is especially important when choosing the speed for driving along tree-lined avenues with narrow roadways?**
+- It may be necessary to stop within half the visible distance when a wide vehicle is coming from the opposite direction
+- ~~Rapidly changing light conditions make it easier to estimate lateral distances~~
+- To estimate the lateral distance to the trees and oncoming traffic simultaneously
+
 ### Wet Surfaces
 
 **What can cause aquaplaning on wet road surfaces?**
