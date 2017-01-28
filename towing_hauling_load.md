@@ -62,11 +62,11 @@
 - **permissable total mass 2400 kg**
 - **permissable towed load 1500 kg**
 
-  **Which trailer are you allowed to tow?**
-  - A trailer with a permissable total mass of:
-    - ~~1200 kg~~
-    - 1000 kg
-    - ~~1500 kg~~
+**_Which trailer are you allowed to tow?_**
+- A trailer with a permissable total mass of:
+  - ~~1200 kg~~
+  - 1000 kg
+  - ~~1500 kg~~
 
 ### Load
 
