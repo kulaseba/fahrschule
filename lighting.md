@@ -36,3 +36,9 @@ You can see that the rear fog light is switched on by the yellow/amber control l
 - In daylight outside built-up areas
 - ~~In darkness in built-up areas~~
 - In darkness outside built-up areas
+
+**The rear lighting systems of your car are covered. What has to be done?**
+- A luminaire rail system with all rear lighting systems:
+  - ~~need only be attached for journeys at dusk or during the hours of darkness~~
+  - ~~need only be attached on journeys longer than 5 km~~
+  - must be attached in any case
