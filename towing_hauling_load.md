@@ -61,6 +61,7 @@
 - **empty mass 1900 kg**
 - **permissable total mass 2400 kg**
 - **permissable towed load 1500 kg**
+
 **Which trailer are you allowed to tow?**
 - A trailer with a permissable total mass of:
   - ~~1200 kg~~
