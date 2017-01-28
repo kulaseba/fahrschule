@@ -29,6 +29,11 @@
 - Have the engine tuning checked regularly
 - Check the fuel consumption regularly
 
+**By which percentage does the fuel consumption (l/100 km) of a middle-class car driving at 160 km/h in general increase compared to driving at the recommended speed of 130 km/h?**
+- ~~By up to 5%~~
+- ~~By up to 10%~~
+- By up to 35%
+
 ### Safety
 
 **Why is it dangerous not to wear safety belts?**
