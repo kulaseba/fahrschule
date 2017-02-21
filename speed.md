@@ -17,9 +17,8 @@ Reaction Distance = `(Speed / 10) * 3`
 - (50 / 10) * 3 = **15 m**
 
 **You are travelling at 50 km/h and have a reaction time of 1 second, and brake normally. What is the stopping distance according to the rule of thumb?**
-
-25 m `(Speed / 10) * (Speed / 10) BRAKING DISTANCE`
-15 m `(Speed / 10) * 3 REACTION DISTANCE`
+- 25 m `(Speed / 10) * (Speed / 10) BRAKING DISTANCE`
+- 15 m `(Speed / 10) * 3 REACTION DISTANCE`
 - 25 + 15 = **40 m**
 
 **What is the maximum speed a truck with a permissible total mass of 3.0 t and trailer may be driven on autobahns?**
