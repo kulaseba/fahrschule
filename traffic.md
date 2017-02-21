@@ -90,3 +90,8 @@
 - Drive past at a sufficient distance in order to exclude endangering pedestrians
 - Wait if passengers could be inconvenienced
 - Drive past at walking speed only and, if necessary, stop
+
+**What must you do when you are being overtaken?**
+- If possible, drive on the far right
+- ~~Increase your speed~~
+- Not increase your speed

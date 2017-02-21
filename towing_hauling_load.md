@@ -67,6 +67,12 @@
   - ~~1200 kg~~
   - 1000 kg
   - ~~1500 kg~~
+  
+**Your car has a fault and can no longer be driven. What must you be aware of during towing?**
+- During towing
+  - the force required to operate the brake pedal is significantly greater if the engine has failed
+  - a towing bar should be used where possible
+  - ~~the rear fog lights should also be switched on to indicate the towing procedure~~
 
 ### Load
 
