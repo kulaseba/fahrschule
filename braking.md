@@ -62,3 +62,6 @@
 **What particular characteristics of disc brakes must you remember when driving on a wet road surface?**
 - ~~As a rule, the effect of disc brakes starts earlier than on a dry road surface~~
 - As a rule, the effect of disc brakes starts later than on a dry road surface
+
+**You are driving on a very narrow road and can see 50 m ahead. What must be your maximum stopping distance?**
+- 25 m

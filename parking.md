@@ -37,3 +37,8 @@
 - ~~With an imposition to attend a supplementary training seminar~~
 - ~~With having to pass a new driving test~~
 - No further measures after the on-the-spot cautionary fine has been paid
+
+**Where are parking lights sufficient when parking a car on unlit roads?**
+- ~~On the hard shoulder of autobahns~~
+- ~~Outside built-up areas~~
+- In built-up areas

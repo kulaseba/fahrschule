@@ -76,7 +76,17 @@
 - ~~On the left~~
 - ~~On the left only if other vehicles are blocking the roadway on the right~~
 
+**When may a tram be overtaken on the left?**
+- In one-way streets
+- ~~When the roadway (not a one-way street) to the right of the tram is blocked by other vehicles~~
+- When the rails run too far to the right
+
 **At which places where there are no traffic signs regulating priority does the rule "right before left" apply?**
 - ~~At junctions with sunken kerbstone~~
 - At crossroads and junctions
 - ~~At junctions of farm tracks or forest tracks with other roads~~
+
+**What do you do when a bus has stopped at a bus stop with its hazard warning lights switched on?**
+- Drive past at a sufficient distance in order to exclude endangering pedestrians
+- Wait if passengers could be inconvenienced
+- Drive past at walking speed only and, if necessary, stop

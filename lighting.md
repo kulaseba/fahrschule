@@ -42,3 +42,8 @@ You can see that the rear fog light is switched on by the yellow/amber control l
   - ~~need only be attached for journeys at dusk or during the hours of darkness~~
   - ~~need only be attached on journeys longer than 5 km~~
   - must be attached in any case
+
+**You are driving in the dark with dipped headlights. Oncoming traffic flash thier headlights at you. What can this mean?**
+- The light range adjustment is not adapted to your vehicle load
+- ~~Other drivers are telling you to turn on your main beam~~
+- The headlamps on your vehicle are set incorrectly and are dazzling

@@ -24,3 +24,7 @@
   - ~~driving stability~~
   - the fuel consumption
   - tire wear
+  
+**What can be the reason for a tire on front axle wearing on one side more than the other?**
+- Steering axle is bent
+- Track alignment not in order

@@ -1,5 +1,12 @@
 ## Residual
 
+
+### License / Permit
+
+**An applicant for a driving permit is caught driving a motor vehicle without a license during his training period. Can this be a reason not to issue a driving permit to him?**
+- ~~No, because only physical and mental characteristics are decisive~~
+- Yes, because this creates doubts about his character
+
 ### Modifications
 
 **A technical modification to your vehicle means that the operating license is extinguished. What consequences should you anticipate if you nevertheless use the vehicle on public roads?**
