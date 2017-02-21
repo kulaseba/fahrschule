@@ -17,8 +17,8 @@ Reaction Distance = `(Speed / 10) * 3`
 - (50 / 10) * 3 = **15 m**
 
 **You are travelling at 50 km/h and have a reaction time of 1 second, and brake normally. What is the stopping distance according to the rule of thumb?**
-- 25 m `(Speed / 10) * (Speed / 10) [BRAKING DISTANCE](#braking)`
-- 15 m `(Speed / 10) * 3 [REACTION DISTANCE](#speed)`
+- 25 m `(Speed / 10) * (Speed / 10) BRAKING DISTANCE`
+- 15 m `(Speed / 10) * 3 REACTION DISTANCE`
 - 25 + 15 = **40 m**
 
 **What is the maximum speed a truck with a permissible total mass of 3.0 t and trailer may be driven on autobahns?**
@@ -46,3 +46,9 @@ Reaction Distance = `(Speed / 10) * 3`
 - By driving at a low engine speed
 - By using cruise control
 - ~~By driving at a high engine speed~~
+
+**When leaving a built-up area, both you and the vehicle approximately 15 m ahead of you increase speed from 50 km/h to 100 km/h. How should you change the safety distance between you and the vehicle ahead?**
+- The safety distance should
+  - increase to at least 50 m
+  - ~~remain the same~~
+  - ~~increase to at least 25 m~~

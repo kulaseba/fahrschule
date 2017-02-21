@@ -73,6 +73,11 @@
   - the force required to operate the brake pedal is significantly greater if the engine has failed
   - a towing bar should be used where possible
   - ~~the rear fog lights should also be switched on to indicate the towing procedure~~
+  
+**When does the braking action of a trailer with overrun brakes start?**
+- ~~When the brake pedal in the truck is activated~~
+- When the trailer runs up to the truck
+- ~~Before the braking action of the truck starts, so that the truck and trailer remain extended~~
 
 ### Load
 
