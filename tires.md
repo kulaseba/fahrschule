@@ -30,3 +30,8 @@
 **What can be the reason for a tire on front axle wearing on one side more than the other?**
 - Steering axle is bent
 - Track alignment not in order
+
+**What can you check on your tire?**
+- Profile
+- Uniform wear of the profile
+- The age of the tire

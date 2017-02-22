@@ -106,3 +106,8 @@
   - may no longer be used in road traffic
   - ~~must be submitted to the registration center~~
   - must be de-registered at the registration center
+  
+**Who is responsible for the roadworthiness of a licensed vehicle?**
+- The driver
+- ~~The motor liability insurance company~~
+- The owner

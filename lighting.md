@@ -52,3 +52,7 @@ You can see that the rear fog light is switched on by the yellow/amber control l
 - It must be correctly installed
 - It must be clean
 - It must be in operating condition
+
+**How can you tell while driving that an indicator lamp is not working?**
+- The indicator signal light will flash faster than usual
+- ~~You cannot detect a defective indicator lamp while driving~~

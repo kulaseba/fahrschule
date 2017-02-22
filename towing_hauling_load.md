@@ -92,6 +92,11 @@
 - You must at least have a driving permit class B
 - ~~You must at least have a driving permit class BE~~
 
+**You are in your car towing a trailer which has no brakes and you approach a long steep downhill slope. What is correct?**
+- Make allowance for the pushing effect of the trailer
+- ~~Relieve the car brakes by disengaging the clutch at frequent intervals~~
+- Reduce speed, if necessary, engage low gear in time, be ready to brake
+
 ### Load
 
 > **2.5 m**: Max. height a load is allowed to project above of the vehicle. In other words, the load may not exceed a height of 2.5 m above the vehicle
