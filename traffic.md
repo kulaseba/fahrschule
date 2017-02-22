@@ -116,3 +116,13 @@
 - Memorize signs for safety installations such as emergency exits and emergency telephones
 - ~~Reduce the safety distance and keep to the tail lights of the vehicle driving ahead of you~~
 - In case of oncoming traffic, keep to the right side of the road
+
+**You are driving in a merging lane. What should you do?**
+- Accelerate appropriately, do not pull up if possible, merge while observing the right of way
+- Drive past to the right of slower-moving vehicles driving on the through-lane and merge in before them
+- ~~Always drive to the end of the merging lane, pull up there and enter lane~~
+
+**You are driving on the autobahn in light traffic. How long are you allowed to stay in the left-hand lane?**
+- As long as you are driving behind a vehicle which is overtaking in the left-hand lane
+- ~~All the time, provided no other vehicle wants to overtake you~~
+- As long as is necessary to overtake other vehicles

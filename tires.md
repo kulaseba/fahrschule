@@ -35,3 +35,8 @@
 - Profile
 - Uniform wear of the profile
 - The age of the tire
+
+**Tire wear is a burden to the environment. What can extend tire life?**
+- ~~Using winter tires (M + S) in the summer~~
+- Observing the tire pressure indicated in the owner's manual
+- Avoiding high speeds
