@@ -111,3 +111,8 @@
 - The driver
 - ~~The motor liability insurance company~~
 - The owner
+
+**What do you do when driving through a tunnel?**
+- Memorize signs for safety installations such as emergency exits and emergency telephones
+- ~~Reduce the safety distance and keep to the tail lights of the vehicle driving ahead of you~~
+- In case of oncoming traffic, keep to the right side of the road
