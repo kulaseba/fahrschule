@@ -52,3 +52,8 @@ Reaction Distance = `(Speed / 10) * 3`
   - increase to at least 50 m
   - ~~remain the same~~
   - ~~increase to at least 25 m~~
+  
+**You are driving at 80 km/h behind a motor vehicle. What is the minimum safe distance you must observe?**
+- ~~A distance of 15 meters~~
+- ~~A "distance of 1 second"~~
+- A "distance of 2 seconds"

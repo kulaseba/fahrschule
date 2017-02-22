@@ -57,6 +57,18 @@
   - the towing cable should be kept as taut as possible
   - the hazard lights must be switched on on both vehicles
   
+**Your car has a fault and can no longer be driven. What must you be aware of during towing?**
+- During towing
+  - the force required to operate the brake pedal is significantly greater if the engine has failed
+  - a towing bar should be used where possible
+  - ~~the rear fog lights should also be switched on to indicate the towing procedure~~
+  
+**What must you remember when loading a trailer?**
+- The load
+  - must be securely packed
+  - ~~must not project more than 1 m beyond the front of the towing vehicle~~
+  - must not project more than 1 m beyond the rear reflectors, unless specially marked
+  
 **You are holding a driving permit class B. Your car has the following specifications:**
 - **empty mass 1900 kg**
 - **permissable total mass 2400 kg**
@@ -68,16 +80,13 @@
   - 1000 kg
   - ~~1500 kg~~
   
-**Your car has a fault and can no longer be driven. What must you be aware of during towing?**
-- During towing
-  - the force required to operate the brake pedal is significantly greater if the engine has failed
-  - a towing bar should be used where possible
-  - ~~the rear fog lights should also be switched on to indicate the towing procedure~~
-  
 **When does the braking action of a trailer with overrun brakes start?**
 - ~~When the brake pedal in the truck is activated~~
 - When the trailer runs up to the truck
 - ~~Before the braking action of the truck starts, so that the truck and trailer remain extended~~
+
+**When must a car with trailer driving outside built-up areas on roads with only one lane for each direction keep a sufficient distance from the car in front so that an overtaking vehicle may pull in?**
+- When the combination of vehicles exceeds **7 m**
 
 ### Load
 

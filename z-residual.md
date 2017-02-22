@@ -52,6 +52,11 @@
 - ~~Risk of injury is not increased~~
 - In the event of a rear-end collision, the risk of injury to such passengers increases
 
+**What must you observe if you wish to drive a vehicle with front passenger air bag?**
+- ~~You may install a child restraint on the front passenger seat facing backwards~~
+- You may install a child restraint on the front passenger seat facing forwards
+- You may not install a child restraint on the front passenger seat facing backwards
+
 ### Skidding
 
 **What can cause skidding on bends?**
