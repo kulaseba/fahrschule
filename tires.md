@@ -1,7 +1,9 @@
 ## Tires
 
 **What must you remember, particularly when driving with winter tires (M + S)?**
+- ~~The maximum permissable speed for cars fitted with snow chains applies~~
 - The maximum permissable speed for these tires may not be exceeded
+- ~~You may not drive faster than 80 km/h~~
 
 **What must you remember with regard to tire pressure?**
 - To increase the pressure to the level stated in the vehicle manual when the vehicle is heavily loaded

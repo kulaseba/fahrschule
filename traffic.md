@@ -95,3 +95,14 @@
 - If possible, drive on the far right
 - ~~Increase your speed~~
 - Not increase your speed
+
+**When are you not allowed to use a motor vehicle on public roads?**
+- When there is no motor liability insurance
+- When it is not roadworthy
+- ~~When you are not in the possession of the vehicle registration book (Fahrzeugbrief)~~
+
+**What is required when your vehicle is no longer covered by motor liability insurance?**
+- The vehicle
+  - may no longer be used in road traffic
+  - ~~must be submitted to the registration center~~
+  - must be de-registered at the registration center

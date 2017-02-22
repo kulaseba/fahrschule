@@ -1,5 +1,11 @@
 ## Residual
 
+### Faults
+
+**The windscreen washer does not work. What can be the reason for this?**
+- Defective fuse
+- Blocked jets
+- No water in the reservoir
 
 ### License / Permit
 
