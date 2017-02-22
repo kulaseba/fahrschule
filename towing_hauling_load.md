@@ -88,6 +88,10 @@
 **When must a car with trailer driving outside built-up areas on roads with only one lane for each direction keep a sufficient distance from the car in front so that an overtaking vehicle may pull in?**
 - When the combination of vehicles exceeds **7 m**
 
+**You want to tow another vehicle with your car. What must you know?**
+- You must at least have a driving permit class B
+- ~~You must at least have a driving permit class BE~~
+
 ### Load
 
 > **2.5 m**: Max. height a load is allowed to project above of the vehicle. In other words, the load may not exceed a height of 2.5 m above the vehicle

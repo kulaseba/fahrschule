@@ -7,3 +7,8 @@
 - ~~5 hours~~
 - 10 hours
 - ~~1 hour~~
+
+**When is a drug-dependent person fit to drive a motor vehicle again?**
+- ~~If he/she has not taken drugs for one month~~
+- ~~If he/she has not taken drugs for six months~~
+- After he/she can be shown to have stopped taking drugs for at least one year and is not likely to have a relapse

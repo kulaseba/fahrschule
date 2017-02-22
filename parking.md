@@ -15,6 +15,9 @@
 > Up to 15 m before or after a bus/tram stop sign
 - parking is allowed only **15 m or more** away from the stop/sign.
 
+**What is the minimum distance you must leave clear when parking outside of a built-up area before a St. Andrew's Cross?**
+- 50 m
+
 **Up to what distance is it NOT allowed to park before or behind a bus or tram stop sign?**
 - 15 m in both cases
 

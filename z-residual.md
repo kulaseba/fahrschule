@@ -63,6 +63,11 @@
 - You may install a child restraint on the front passenger seat facing forwards
 - You may not install a child restraint on the front passenger seat facing backwards
 
+**When is it NOT necessary to wear safety belts?**
+- ~~Outside build-up areas in a vehicle with airbag~~
+- ~~When driving in zones with 30 km/h speed limit~~
+- When driving at walking speed
+
 ### Skidding
 
 **What can cause skidding on bends?**

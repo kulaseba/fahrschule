@@ -57,3 +57,11 @@ Reaction Distance = `(Speed / 10) * 3`
 - ~~A distance of 15 meters~~
 - ~~A "distance of 1 second"~~
 - A "distance of 2 seconds"
+
+**You are driving at 100 km/h on a road not inside a built-up area. In front of you a trick is travelling at 70 km/h. What is the minimum distance you must be from a crest in the road when commencing an overtaking manoeuvre?**
+- ~~200 m~~
+- 800 m
+- ~~400 m~~
+
+**What is the recommended speed that applies to cars and motorcycles on autobahns?**
+- 130 km/h
