@@ -47,3 +47,8 @@ You can see that the rear fog light is switched on by the yellow/amber control l
 - The light range adjustment is not adapted to your vehicle load
 - ~~Other drivers are telling you to turn on your main beam~~
 - The headlamps on your vehicle are set incorrectly and are dazzling
+
+**What must you remember concerning the lighting equipment of your vehicle?**
+- It must be correctly installed
+- It must be clean
+- It must be in operating condition

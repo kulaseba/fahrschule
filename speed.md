@@ -65,3 +65,8 @@ Reaction Distance = `(Speed / 10) * 3`
 
 **What is the recommended speed that applies to cars and motorcycles on autobahns?**
 - 130 km/h
+
+**Where does driving fast often lead to accidents?**
+- On bends
+- At pedestrian crossings
+- At crossroads and junctions

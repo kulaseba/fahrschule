@@ -27,6 +27,11 @@
 - ~~By using all-terrain tires~~
 - ~~By removing the air filter~~
 
+**What causes avoidable noise?**
+- ~~Driving with a roof rack~~
+- Firmly slamming doors shut
+- Sounding the horn as a greeting
+
 ### Pedestrians
 
 **A pedestrian with a white stick wants to cross the road in front of you. What should you do?**
@@ -72,6 +77,11 @@
 - ~~Outside build-up areas in a vehicle with airbag~~
 - ~~When driving in zones with 30 km/h speed limit~~
 - When driving at walking speed
+
+**At which impact speed must you reckon with serious or deadly injuries when no safety belt is worn?**
+- ~~From 80 km/h onward~~
+- ~~From 50 km/h onward~~
+- From 30 km/h onward
 
 ### Skidding
 
