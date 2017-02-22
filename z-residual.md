@@ -34,6 +34,11 @@
   - reduce speed and stop if necessary
   - ~~continue driving at the same speed~~
   - ~~give a warning signal~~
+  
+**You come to a stop unexpectedly on a pedestrian crossing. What do you do?**
+- ~~Move half onto the footpath in order to clear the crossing~~
+- ~~Reverse under no circumstances, even though the roadway is clear behind you~~
+- Move slightly forward or backward in order to clear the crossing as quickly as possible
 
 ### Pollution
 

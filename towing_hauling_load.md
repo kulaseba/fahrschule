@@ -113,6 +113,10 @@
 - ~~Yes, to secure the load~~
 - ~~Yes, if they have to accompany the load~~
 
+**Where should you store your luggage if possible in order to save fuel?**
+- In the boot
+- ~~On a roof rack~~
+
 ### Hauling
 
 **What must be remembered with regard to vehicles with canvas covers?**
