@@ -45,3 +45,8 @@
 - ~~On the hard shoulder of autobahns~~
 - ~~Outside built-up areas~~
 - In built-up areas
+
+**Where are you allowed to park on the left in the direction of travel?**
+- Where there are rails on the right-hand side
+- ~~Where parking is prohibited on the right~~
+- In one-way streets
