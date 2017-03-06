@@ -136,3 +136,35 @@
 - In front of the St. Andrew's Cross
 - ~~Just before the rails~~
 - ~~Level with the barrier~~
+
+**Why are short journeys performed with a cold engine especially damaging to the environment?**
+- Because driving with a cold engine means
+  - ~~the vehicle's battery will be overcharged~~
+  - more fuel is consumed
+  - the level of material wear is higher
+
+**You are driving a slow-moving vehicle on a main road. How can you facilitate faster-moving vehicles in overtaking?**
+- By moving
+  - into a lay-by
+  - onto the hard shoulder
+  - onto the parking area
+  
+**What makes driving in a stream of vehicles easier?**
+- Driving in a slightly staggered position in your own lane
+- Watching the queue through the windows of the vehicles travelling in front
+- ~~Keeping your hazard warning lights switched on when driving~~
+
+**What applies from this traffic sign (yellow village sign, like Girath) onwards?**
+- Maximum permissable speed 50 km/h
+- Free choice of marked driving lanes for motor vehicles with a permissible total mass up to 3.5 t
+- ~~Free choice of marked driving lanes for all motor vehicles~~
+
+**What applies from this traffic sign (yellow village sign, like Girath) onwards?**
+- Parking cars may be safely marked with parking light
+- You may not sound your horn to signal your intention to overtake
+- ~~You may drive with parking light in the darkness~~
+
+**You want to turn left and the lights are "green." On your left there is a tram wanting to proceed straight ahead. What is correct?**
+- ~~The tram must wait~~
+- You must wait
+- ~~You must come to an agreement since there are no rules for this~~

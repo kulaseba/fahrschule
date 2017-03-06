@@ -65,3 +65,8 @@
 
 **You are driving on a very narrow road and can see 50 m ahead. What must be your maximum stopping distance?**
 - 25 m
+
+**Moisture can impair the action of drum brakes. What should you do?**
+- ~~Apply the brakes several times while at a standstill~~
+- Cautiously apply the brakes while driving slowly
+- ~~Top up the brake fluid~~

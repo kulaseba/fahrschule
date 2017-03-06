@@ -73,3 +73,6 @@ Reaction Distance = `(Speed / 10) * 3`
 
 **What is the maximum speed you are allowed to drive a car on roads with one marked lane for each direction outside built-up areas?**
 - **100 km/h**
+
+**You are travelling at 100 km/h and have a reaction time of 1 second. What is the reaction distance according to the rule of thumb?**
+- (100 / 10) * 3 = **30 m** 
