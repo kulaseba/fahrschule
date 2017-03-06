@@ -97,6 +97,11 @@
 - ~~Relieve the car brakes by disengaging the clutch at frequent intervals~~
 - Reduce speed, if necessary, engage low gear in time, be ready to brake
 
+**You want to tow a single-axle caravan trailer behind your car. What must you check?**
+- If additional rear-view mirrors must be mounted because of the width of the trailer
+- If the permissible trailer load or the permissible coupling of the car are exceeded
+- ~~If the trailer is licensed to transport passengers~~
+
 ### Load
 
 > **2.5 m**: Max. height a load is allowed to project above of the vehicle. In other words, the load may not exceed a height of 2.5 m above the vehicle
@@ -121,6 +126,15 @@
 **Where should you store your luggage if possible in order to save fuel?**
 - In the boot
 - ~~On a roof rack~~
+
+**How must a load be marked in darkness or bad visibility when it extends laterally more than 40 cm beyond the side lights of the vehicle?**
+- ~~By switching on the hazard warning lights~~
+- By a red light to the back
+- By a white light to the front
+
+**What must you remember if you want to transport a load with your motor vehicle?**
+- The load must be secured and may not cause unnecesarry noise
+- ~~Single objects (e.g. poles, rods and horizontal boards) may project beyond the sides of the vehicle~~
 
 ### Hauling
 

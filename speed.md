@@ -70,3 +70,6 @@ Reaction Distance = `(Speed / 10) * 3`
 - On bends
 - At pedestrian crossings
 - At crossroads and junctions
+
+**What is the maximum speed you are allowed to drive a car on roads with one marked lane for each direction outside built-up areas?**
+- **100 km/h**

@@ -50,3 +50,6 @@
 - Where there are rails on the right-hand side
 - ~~Where parking is prohibited on the right~~
 - In one-way streets
+
+**You want to park on the right-hand edge of the roadway. What must be the minimum distance between your vehicle and the lane boundary marking?**
+- **3 m**

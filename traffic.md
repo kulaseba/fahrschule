@@ -126,3 +126,13 @@
 - As long as you are driving behind a vehicle which is overtaking in the left-hand lane
 - ~~All the time, provided no other vehicle wants to overtake you~~
 - As long as is necessary to overtake other vehicles
+
+**You want to overtake cyclists on a narrow road. The width of the road means that the maximum possible space between them and the car is 50 cm. What should you do?**
+- ~~I give a short warning signal before overtaking~~
+- ~~I overtake at a moderate speed~~
+- I refrain from overtaking
+
+**You are approaching a level crossing with barriers. Where must you wait if you would have to stop on the rails in case of traffice congestion?**
+- In front of the St. Andrew's Cross
+- ~~Just before the rails~~
+- ~~Level with the barrier~~
