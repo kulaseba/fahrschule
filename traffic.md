@@ -164,3 +164,8 @@
 - ~~The tram must wait~~
 - You must wait
 - ~~You must come to an agreement since there are no rules for this~~
+
+**You are driving on an avenue with a narrow carriageway. What must you be aware of?**
+- I may only drive at a speed that allows me to stop within half of my range of vision
+- Conflicts can arise with the oncoming traffic
+- I have to anticipate unevenness at the edge of the carriageway caused by tree roots
