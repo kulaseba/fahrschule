@@ -108,6 +108,9 @@
 
 > **2.5 m**: Max. height for a load to project up to **50 cm** in front of the vehicle
 
+**Up to what height is a load not allowed to project over the front of the vehicle?**
+**2.50 m**
+
 **What can be the effect of an overload of only 20%?**
 - The brakes may be overstrained
 - Steering may become worse

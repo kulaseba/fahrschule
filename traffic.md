@@ -179,3 +179,8 @@
 - Before the start of a solid line (traffic lane boundary)
 - Before a no-overtaking sign for vehicles of all types
 - ~~Before the start of a lane marking~~
+
+**On a road not within a built-up area, a car is driving in front of you at a speed somewhat slower than that permitted. You are annoyed at the slower-moving car. What should you do?**
+- I overtake at a suitable place
+- ~~I flash my headlights, until the car in front begins to drive faster~~
+- I adjust my speed to that of the vehicle ahead
