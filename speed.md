@@ -75,4 +75,9 @@ Reaction Distance = `(Speed / 10) * 3`
 - 100 km/h
 
 **You are travelling at 100 km/h and have a reaction time of 1 second. What is the reaction distance according to the rule of thumb?**
-- (100 / 10) * 3 = **30 m** 
+- (100 / 10) * 3 = **30 m**
+
+**You are driving in fog on the autobahn and have 50 m visibility. What is the maximum speed you may drive?**
+- ~~70 km/h~~
+- ~~90 km/h~~
+- 50 km/h
