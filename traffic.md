@@ -1,9 +1,5 @@
 ## Traffic
 
-**Which areas must you NOT drive into/block when there is traffic congestion?**
-- Level crossings
-- Crossroads
-
 **Which are the areas you must NOT drive into when there is traffic congestion?**
 - Pedestrian crossings
 - ~~Bus stops with "zig-zag lines"~~
