@@ -169,3 +169,8 @@
 - I may only drive at a speed that allows me to stop within half of my range of vision
 - Conflicts can arise with the oncoming traffic
 - I have to anticipate unevenness at the edge of the carriageway caused by tree roots
+
+**What documents do you have to carry with you if you want to drive a compulsory registrable vehicle?**
+- ~~The registration certificate Part II (Motor Vehicle Title)~~
+- My driving license
+- The registration certificiate Part I (Motor Vehicle Registration)
