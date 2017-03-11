@@ -136,6 +136,11 @@
 - The load must be secured and may not cause unnecesarry noise
 - ~~Single objects (e.g. poles, rods and horizontal boards) may project beyond the sides of the vehicle~~
 
+**What is the maximum height allowed above the roadway for a red light marking a load extending to the back?**
+- ~~2.50 m~~
+- ~~2.00 m~~
+- 1.50 m
+
 ### Hauling
 
 **What must be remembered with regard to vehicles with canvas covers?**
