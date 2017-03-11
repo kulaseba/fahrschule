@@ -57,6 +57,14 @@
 - ~~By up to 10%~~
 - By up to 35%
 
+
+### Probation
+
+**You are currently in the probationary period and to date have not come to the attention of the authorities. What consequences may result if you fail to observe the traffic sign "Stop. Give way." and thereby endanger other road users?**
+- Entry into the Central Register of Road Traffice Offenders
+- ~~An order to resit a theoretical driving licence test~~
+- An order to attend an advanced seminar for new drivers
+
 ### Safety
 
 **Why is it dangerous not to wear safety belts?**

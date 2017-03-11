@@ -56,3 +56,8 @@ You can see that the rear fog light is switched on by the yellow/amber control l
 **How can you tell while driving that an indicator lamp is not working?**
 - The indicator signal light will flash faster than usual
 - ~~You cannot detect a defective indicator lamp while driving~~
+
+**How can you tell - depending on the type of vehicle - whether the headlights are switched on full beam?**
+- ~~By the red indicator light~~
+- By the position of the switch or the blue indicator light
+- ~~By the green indicator light~~
