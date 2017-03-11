@@ -174,3 +174,8 @@
 - ~~The registration certificate Part II (Motor Vehicle Title)~~
 - My driving license
 - The registration certificiate Part I (Motor Vehicle Registration)
+
+**You are driving on a road not within a built-up area and want to overtake a car. Where is the very latest point at which the overtaking manoeuvre should be completed?**
+- Before the start of a solid line (traffic lane boundary)
+- Before a no-overtaking sign for vehicles of all types
+- ~~Before the start of a lane marking~~
