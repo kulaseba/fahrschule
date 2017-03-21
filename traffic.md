@@ -184,3 +184,9 @@
 - I overtake at a suitable place
 - ~~I flash my headlights, until the car in front begins to drive faster~~
 - I adjust my speed to that of the vehicle ahead
+
+**What do white plates with a black "A" on a truck mean?**
+- The truck
+  - ~~is transporting dangerous goods~~
+  - ~~is driven by a beginner~~
+  - is transporting waste materials

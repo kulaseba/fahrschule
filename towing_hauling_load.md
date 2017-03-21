@@ -102,6 +102,11 @@
 - If the permissible trailer load or the permissible coupling of the car are exceeded
 - ~~If the trailer is licensed to transport passengers~~
 
+**What must you remember when driving a truck and trailer with a trailer equipped with overrun brakes?**
+- In the case of certain trailers, the "reverse lock" must be engaged before reversing
+- Reversing without problem is not possible for all trailers
+- ~~In the case of certain trailers, the "reverse lock" must be engaged before advancing~~
+
 ### Load
 
 > **2.5 m**: Max. height a load is allowed to project above of the vehicle. In other words, the load may not exceed a height of 2.5 m above the vehicle
@@ -143,6 +148,13 @@
 - ~~2.50 m~~
 - ~~2.00 m~~
 - 1.50 m
+
+**What must you do to avoid endangering others by equipment or load which has fallen off your vehicle?**
+- Depending on the situation,
+  - secure the danger spot and immediately inform the road service or police
+  - remove the parts yourself
+  - ~~proceed and inform the nearest municipal office~~
+  
 
 ### Hauling
 
