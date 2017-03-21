@@ -154,7 +154,11 @@
   - secure the danger spot and immediately inform the road service or police
   - remove the parts yourself
   - ~~proceed and inform the nearest municipal office~~
-  
+
+**What must you reckon with when transporting luggage on the roof of your car?**
+- The vehicle inclines more on bends
+- The vehicle's susceptibility to side wind is greater
+- ~~The vehicle's readhandling is improved on account of the higher center of gravity~~
 
 ### Hauling
 
