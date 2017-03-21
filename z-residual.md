@@ -152,6 +152,13 @@
 - ~~Rapidly changing light conditions make it easier to estimate lateral distances~~
 - To estimate the lateral distance to the trees and oncoming traffic simultaneously
 
+### Vehicle
+
+**How can you tell when you must present your vehicle for the next official inspection (Hauptuntersuchung)?**
+- ~~By the kilometer reading~~
+- By the entry in the vehicle registration certificate (Fahrzeugschein)
+- By the test stamp
+
 ## Visibility
 
 **How can you achieve sufficient visability through the windscreen?**
