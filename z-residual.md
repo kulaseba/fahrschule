@@ -57,6 +57,16 @@
 - ~~By up to 10%~~
 - By up to 35%
 
+**How can you save fuel when driving a motor vehicle with automatic transmission?**
+- ~~By driving in gear "P", if possible~~
+- By not using the "kick down" facility, if possible
+- ~~When driving in town traffic, always keep the selector lever in the lowest gear~~
+
+**What must you know about catalytic converters?**
+- ~~Unburned fuel in the catalytic converter cannot cause any damage when the engine starts~~
+- A catalytic converter can be damaged when the engine starts after many unsuccessful attempts
+- A catalytic converter can be damaged or destroyed when the car is towed to start
+
 ### Probation
 
 **You are currently in the probationary period and to date have not come to the attention of the authorities. What consequences may result if you fail to observe the traffic sign "Stop. Give way." and thereby endanger other road users?**

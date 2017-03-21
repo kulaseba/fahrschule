@@ -72,3 +72,6 @@
   - may be parked for more than 2 weeks on specially designated parking spaces
   - ~~may be parked for an unlimited period of time on adequate hard shoulders~~
   - may not be parked for more than 2 weeks on public roads
+  
+**Up to what distances before and behind crossroads and junctions is parking prohibited?**
+- **5 m**
