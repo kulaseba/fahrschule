@@ -196,3 +196,11 @@
   - allow pedestrians on the footpath to walk past
   - indicate the direction of movement prior to taking the turn
   - ~~observe the "right before left" rule~~
+  
+**You want to leave a traffic-calming zone and begin driving along a road. Cyclists are approaching from the left. Who is required to wait?**
+- ~~Everyone is required to stop and then agree among one another who should proceed first~~
+- ~~The cyclists have to wait~~
+- I have to wait
+
+**Which motor vehicles may freely choose their lane inside build-up areas?**
+- All motor vehicles with a permissible total mass of up to **3.50 t**

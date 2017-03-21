@@ -40,3 +40,8 @@
 - ~~Using winter tires (M + S) in the summer~~
 - Observing the tire pressure indicated in the owner's manual
 - Avoiding high speeds
+
+**One of your tires bursts while you are traveling at high speed on an autobahn. What do you do?**
+- Throttle down, if necessary, steer against and brake cautiously
+- Stop, if possible, on the hard shoulder, switch on hazard warning lights and place the warning triangle
+- ~~Immediately apply the brakes fully and move over onto the hard shoulder~~

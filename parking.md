@@ -58,3 +58,11 @@
 - Before sunken kerbstones
 - ~~Immediately behind pedestrian crossings~~
 - At the edge of the roadway if this would prevent others from using designated parking areas
+
+**Up to which permissable total mass may motor vehicles be parked on specially designated footpaths?**
+- **2.80 t**
+
+**You want to park you single-axle trailer (overrun brakes, 1000 kg permissable total mass) on a slope. What must you do?**
+- Pull the parking brake
+- Place wheel chocks under the wheels
+- ~~Engage the reverse lock~~
