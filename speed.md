@@ -27,6 +27,9 @@ Reaction Distance = `(Speed / 10) * 3`
 **What is the maximum speed you are allowed to drive a truck with a permissable total mass of 3.0 t on roads with one marked lane for each direction outside built-up areas?**
 - 100 km/h
 
+**What is the maximum speed you are allowed to drive a truck with a 3.0 t gross vehicle weight rating with trailer on roads outside of settlements?**
+- **80 km/h**
+
 **You drive around a bend once at 30 km/h and again at 60 km/h. How dows the centrifugal force change?**
 - ~~is twice as high~~
 - is four times as high

@@ -3,6 +3,7 @@
 **A police signalling disc is displayed towards you from a vehicle driving in front of you. What does this mean?**
 - I may not overtake the vehicle
 - I have to follow the vehicle until it stops
+- ~~I have to turn in the direction indicated~~
 
 **What can a flashing blue light (without siren) mean?**
 - ~~Without a siren, a flashing blue light does not mean anything~~
