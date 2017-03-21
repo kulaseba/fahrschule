@@ -142,6 +142,11 @@
 - High speed
 - Grooves in the roadway
 
+**Where does aquaplaning (sliding on we roads) occur particularly often?**
+- ~~At level crossings~~
+- In dips in the roadway
+- Where there are grooves in the roadway
+
 **You are driving in the wet in a car with trailer on a narrow rural road and are approaching a clearly visible but tight left-hand bend. What should you do?**
 - ~~I only brake once I have reached the apex of the bend~~
 - I remain in the center of the lane and only accelerate again once I am back on the straight

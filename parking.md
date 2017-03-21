@@ -66,3 +66,9 @@
 - Pull the parking brake
 - Place wheel chocks under the wheels
 - ~~Engage the reverse lock~~
+
+**What must you remember when parking a trailer without a truck?**
+- The trailer
+  - may be parked for more than 2 weeks on specially designated parking spaces
+  - ~~may be parked for an unlimited period of time on adequate hard shoulders~~
+  - may not be parked for more than 2 weeks on public roads

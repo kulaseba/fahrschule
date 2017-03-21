@@ -66,3 +66,8 @@ You can see that the rear fog light is switched on by the yellow/amber control l
 - ~~Nothing because it is an indication for the garage workshop~~
 - Go to a garage workshop
 - ~~Take the vehicle off the road immediately~~
+
+**When are you allowed to switch on rear fog lamps?**
+- ~~When fog reduces visibility to 100 m~~
+- ~~When visibility is reduced by heavy rain~~
+- When fog reduces visibility to less than 50 m

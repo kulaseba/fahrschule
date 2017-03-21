@@ -107,6 +107,11 @@
 - Reversing without problem is not possible for all trailers
 - ~~In the case of certain trailers, the "reverse lock" must be engaged before advancing~~
 
+**Which dangerous defects can have occurred on a trailer with overrun brakes which has been parked for some time?**
+- The brakes may not work because of rust
+- Cable connections can be defective
+- ~~Tire pressure may have increased greatly due to exposure to the sun~~
+
 ### Load
 
 > **2.5 m**: Max. height a load is allowed to project above of the vehicle. In other words, the load may not exceed a height of 2.5 m above the vehicle
