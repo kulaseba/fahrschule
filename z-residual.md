@@ -1,26 +1,24 @@
-## Residual
-
-### Faults
+## Faults
 
 **The windscreen washer does not work. What can be the reason for this?**
 - Defective fuse
 - Blocked jets
 - No water in the reservoir
 
-### License / Permit
+## License / Permit
 
 **An applicant for a driving permit is caught driving a motor vehicle without a license during his training period. Can this be a reason not to issue a driving permit to him?**
 - ~~No, because only physical and mental characteristics are decisive~~
 - Yes, because this creates doubts about his character
 
-### Modifications
+## Modifications
 
 **A technical modification to your vehicle means that the operating license is extinguished. What consequences should you anticipate if you nevertheless use the vehicle on public roads?**
 - An entry into the Central Register of Road Traffic Offenders
 - A public authority fine
 - The loss of my insurance coverage
 
-### Noise Pollution
+## Noise Pollution
 
 **How can you reduce the noise made by a car?**
 - By driving at a low engine speed
@@ -32,7 +30,7 @@
 - Firmly slamming doors shut
 - Sounding the horn as a greeting
 
-### Pedestrians
+## Pedestrians
 
 **A pedestrian with a white stick wants to cross the road in front of you. What should you do?**
 - I have to:
@@ -45,7 +43,7 @@
 - ~~Reverse under no circumstances, even though the roadway is clear behind you~~
 - Move slightly forward or backward in order to clear the crossing as quickly as possible
 
-### Pollution
+## Pollution
 
 **What is important to avoid pollution and to save energy when driving?**
 - ~~Was the engine regularly, at least four times a year~~
@@ -67,14 +65,14 @@
 - A catalytic converter can be damaged when the engine starts after many unsuccessful attempts
 - A catalytic converter can be damaged or destroyed when the car is towed to start
 
-### Probation
+## Probation
 
 **You are currently in the probationary period and to date have not come to the attention of the authorities. What consequences may result if you fail to observe the traffic sign "Stop. Give way." and thereby endanger other road users?**
 - Entry into the Central Register of Road Traffice Offenders
 - ~~An order to resit a theoretical driving licence test~~
 - An order to attend an advanced seminar for new drivers
 
-### Safety
+## Safety
 
 **Why is it dangerous not to wear safety belts?**
 - Because you cannot adequately protect yourself in case of an impact at a speed of about 20 km/h
@@ -106,18 +104,23 @@
   - ~~drive in neutral~~
   - select a gear in which I am not required to brake a great deal
 
-### Skidding
+## Skidding
 
 **What can cause skidding on bends?**
 - ~~Load is too small~~
 - Faulty shock-absorbers
 - Insufficient or uneven tire pressure
 
-### Slopes/Downhill
+## Slopes/Downhill
 
 **Why should you not apply the clutch when driving on a long, steep downhill slope?**
 - Because this causes unnecessary wear of the brakes
 - Because the braking action of the engine will have no effect
+
+**Why should you not press the clutch and switch off the engine at the same time when driving down a long slope?**
+- ~~The battery will be overcharged~~
+- Full braking power cannot be reached in vehicles with brake booster system despite great force being applied to the pedal
+- The steering of vehicles with servo-assisted steering immediately becomes unusually heavy
 
 ## Steering
 
@@ -147,14 +150,14 @@
 - ~~Immediately behind pedestrian crossings~~
 - On narrow sections of the road and at blind spots
 
-### Theft
+## Theft
 
 **How must you safeguard your vehicle against theft?**
 - By locking the doors and boot
 - ~~By activating the [differential lock](https://en.wikipedia.org/wiki/Locking_differential)~~
 - By removing the ignition key, engaging the steering wheel lock, and closing the windows
 
-### Trees
+## Trees
 
 **What are the special conditions when driving along tree-lined avenues?**
 - ~~The trees provide protection from the sides~~
@@ -166,12 +169,17 @@
 - ~~Rapidly changing light conditions make it easier to estimate lateral distances~~
 - To estimate the lateral distance to the trees and oncoming traffic simultaneously
 
-### Vehicle
+## Vehicle
 
 **How can you tell when you must present your vehicle for the next official inspection (Hauptuntersuchung)?**
 - ~~By the kilometer reading~~
 - By the entry in the vehicle registration certificate (Fahrzeugschein)
 - By the test stamp
+
+**The diesel engine of your vehicle has stopped despite a full fuel tank. What can be the reason?**
+- ~~Faulty glow plugs~~
+- Blocked fuel filter
+- Air in the fuel system
 
 ## Visibility
 
@@ -180,7 +188,7 @@
 - ~~When the windscreen is steamed up, switch the ventilator off and keep the windows closed~~
 - Switch on the windscreen wipers from time to time when it is foggy
 
-### Wet Surfaces
+## Wet Surfaces
 
 **What can cause aquaplaning on wet road surfaces?**
 - Worn tires
@@ -197,7 +205,7 @@
 - I remain in the center of the lane and only accelerate again once I am back on the straight
 - I reduce my speed before the bend
 
-### Youth
+## Youth
 
 **Serious accidents frequently occur when young people drive cars during night-time recreational drives at weekends. What causes can be particularly relevant here?**
 - Inappropriate speed
