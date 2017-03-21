@@ -117,6 +117,11 @@
 - In the Motor Vehicle Registration
 - ~~In the insurance certificate~~
 
+**A car with servo brakes has broken down with engine damage. What is correct when towing the car away?**
+- The car being towed can only achieve slight braking effect even when increased pressure is applied to the pedal
+- If possible, use a tow-bar
+- ~~The action of the foot brake is not impaired by the engine not running~~
+
 ### Load
 
 > **2.5 m**: Max. height a load is allowed to project above of the vehicle. In other words, the load may not exceed a height of 2.5 m above the vehicle
@@ -169,6 +174,10 @@
 - The vehicle inclines more on bends
 - The vehicle's susceptibility to side wind is greater
 - ~~The vehicle's readhandling is improved on account of the higher center of gravity~~
+
+**Under what conditions is a load allowed to project over the front of a vehicle?**
+- If the load does not project over more than 50 cm and is above a height of 2.50 m
+- ~~If the load is marked with a red light~~
 
 ### Hauling
 

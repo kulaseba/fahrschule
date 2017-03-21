@@ -165,3 +165,10 @@
 - ~~I only brake once I have reached the apex of the bend~~
 - I remain in the center of the lane and only accelerate again once I am back on the straight
 - I reduce my speed before the bend
+
+### Youth
+
+**Serious accidents frequently occur when young people drive cars during night-time recreational drives at weekends. What causes can be particularly relevant here?**
+- Inappropriate speed
+- ~~Hesitant driving style~~
+- High risk readiness

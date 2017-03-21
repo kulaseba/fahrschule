@@ -5,6 +5,11 @@
 - The maximum permissable speed for these tires may not be exceeded
 - ~~You may not drive faster than 80 km/h~~
 
+**What must you remember when fitting winter tires (M + S)?**
+- Driving characteristics can be different on dry roadways
+- ~~The air pressure should be lower than with summer tires~~
+- The air pressure should be slightly higher than with summer tires (approx. 0.2 bar)
+
 **What must you remember with regard to tire pressure?**
 - To increase the pressure to the level stated in the vehicle manual when the vehicle is heavily loaded
 - To check the air pressure regularly, including that of the spare wheel

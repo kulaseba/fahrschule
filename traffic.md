@@ -57,6 +57,11 @@
 **Between what hours does the Sunday and public holiday driving ban apply?**
 - From **0** hours to **22** hours
 
+**To which vehicles does the Sunday and public holiday driving ban apply?**
+- All trucks with trailers
+- ~~Truck tractors with trailers~~
+- Trucks with a permissible total mass exceeding 7.5 t
+
 **You are driving a slow-moving vehicle on a rural road. A line of vehicles is forming behind you. What should you do?**
 - I allow the vehicles behind me to overtake
 - ~~I switch on my hazard lights and drive as far to the right as possible~~
