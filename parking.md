@@ -53,3 +53,8 @@
 
 **You want to park on the right-hand edge of the roadway. What must be the minimum distance between your vehicle and the lane boundary marking?**
 - **3 m**
+
+**Where is parking prohibited?**
+- Before sunken kerbstones
+- ~~Immediately behind pedestrian crossings~~
+- At the edge of the roadway if this would prevent others from using designated parking areas

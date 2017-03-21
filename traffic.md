@@ -190,3 +190,9 @@
   - ~~is transporting dangerous goods~~
   - ~~is driven by a beginner~~
   - is transporting waste materials
+  
+**You want to leave a traffic-calming zone and begin driving along a road. What should you do?**
+- I have to
+  - allow pedestrians on the footpath to walk past
+  - indicate the direction of movement prior to taking the turn
+  - ~~observe the "right before left" rule~~

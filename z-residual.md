@@ -57,7 +57,6 @@
 - ~~By up to 10%~~
 - By up to 35%
 
-
 ### Probation
 
 **You are currently in the probationary period and to date have not come to the attention of the authorities. What consequences may result if you fail to observe the traffic sign "Stop. Give way." and thereby endanger other road users?**
@@ -90,6 +89,12 @@
 - ~~From 80 km/h onward~~
 - ~~From 50 km/h onward~~
 - From 30 km/h onward
+
+**How do you pass through an incline safely?**
+- I take my foot off the accelerator completely and
+  - ~~switch the ignition off~~
+  - ~~drive in neutral~~
+  - select a gear in which I am not required to brake a great deal
 
 ### Skidding
 

@@ -61,3 +61,8 @@ You can see that the rear fog light is switched on by the yellow/amber control l
 - ~~By the red indicator light~~
 - By the position of the switch or the blue indicator light
 - ~~By the green indicator light~~
+
+**While you are driving, the airbag control light stays on constantly. What must you do?**
+- ~~Nothing because it is an indication for the garage workshop~~
+- Go to a garage workshop
+- ~~Take the vehicle off the road immediately~~
