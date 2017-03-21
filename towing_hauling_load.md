@@ -137,7 +137,7 @@
 - The stipulations of the vehicle's manufacturer in the owner's manual
 
 **Are you allowed to transport persons on the loading platform of your truck?**
-- Yes, if they must carry out necessary work _(ed. note: fire brigade?)_
+- Yes, if they must carry out necessary work _(ed. note: fire brigade, sanitation)_
 - ~~Yes, to secure the load~~
 - ~~Yes, if they have to accompany the load~~
 
