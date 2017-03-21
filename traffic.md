@@ -220,3 +220,18 @@
   - leave the key in the ignition
   - switch off the engine
   - turn on the hazard warning system
+  
+**You want to leave a property lot and turn into a road while passing over a footpath. What must you look out for?**
+- You should be directed by another person if necessary
+- ~~First take note of the flowing traffic on the road~~
+- Pedestrians on the footpath may not be endangered
+
+**What is the correct procedure for pulling out to overtake?** \[NOTE: These answers may be incorrect for this question\]
+- ~~The vehicle in front indicates right~~
+- Any danger to traffic following is excluded
+- Oncoming traffic is not endangered
+
+**Which vehicles may be overtaken only by maintaining a specially great lateral distance?**
+- ~~Trams~~
+- Bicycles
+- Motorcycles

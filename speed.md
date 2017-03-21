@@ -64,7 +64,7 @@ Reaction Distance = `(Speed / 10) * 3`
 - ~~400 m~~
 
 **What is the recommended speed that applies to cars and motorcycles on autobahns?**
-- 130 km/h
+- **130 km/h**
 
 **Where does driving fast often lead to accidents?**
 - On bends
@@ -72,7 +72,7 @@ Reaction Distance = `(Speed / 10) * 3`
 - At crossroads and junctions
 
 **What is the maximum speed you are allowed to drive a car on roads with one marked lane for each direction outside built-up areas?**
-- 100 km/h
+- **100 km/h**
 
 **You are travelling at 100 km/h and have a reaction time of 1 second. What is the reaction distance according to the rule of thumb?**
 - (100 / 10) * 3 = **30 m**
@@ -86,3 +86,6 @@ Reaction Distance = `(Speed / 10) * 3`
 - It may be necessary to stop within half the visible distance when a wide vehicle is coming from the opposite direction
 - ~~Rapidly changing light conditions make it easier to estimate lateral distances~~
 - To estimate the lateral distance to the trees and oncoming traffic simultaneously
+
+**What is the maximum speed a motor vehicle fitted with snow chains is allowed to travel?**
+- **50 km/h**
