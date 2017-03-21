@@ -112,6 +112,11 @@
 - Cable connections can be defective
 - ~~Tire pressure may have increased greatly due to exposure to the sun~~
 
+**Where can you find details about the permissable brake-equipped towable mass for your car?**
+- ~~In the driving license~~
+- In the Motor Vehicle Registration
+- ~~In the insurance certificate~~
+
 ### Load
 
 > **2.5 m**: Max. height a load is allowed to project above of the vehicle. In other words, the load may not exceed a height of 2.5 m above the vehicle

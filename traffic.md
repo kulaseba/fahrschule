@@ -204,3 +204,8 @@
 
 **Which motor vehicles may freely choose their lane inside build-up areas?**
 - All motor vehicles with a permissible total mass of up to **3.50 t**
+
+**Two vehicles are approaching each other. Both want to turn left. In which cases are you not allowed to turn left in front of each other?**
+- ~~When the approaching vehicle wanting to turn left stops just before the middle of the crossroads~~
+- When this is forbidden by lane markings
+- When you notice that the approaching vehicle wanting to turn left wishes to turn behind your vehicle

@@ -81,3 +81,8 @@ Reaction Distance = `(Speed / 10) * 3`
 - ~~70 km/h~~
 - ~~90 km/h~~
 - 50 km/h
+
+**What is especially important when choosing the speed for driving along tree-lined avenues with narrow roadways?**
+- It may be necessary to stop within half the visible distance when a wide vehicle is coming from the opposite direction
+- ~~Rapidly changing light conditions make it easier to estimate lateral distances~~
+- To estimate the lateral distance to the trees and oncoming traffic simultaneously
