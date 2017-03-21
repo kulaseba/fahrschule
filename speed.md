@@ -89,3 +89,6 @@ Reaction Distance = `(Speed / 10) * 3`
 
 **What is the maximum speed a motor vehicle fitted with snow chains is allowed to travel?**
 - **50 km/h**
+
+**What is the maximum speed you are allowed to drive a car with a trailer on roads outside of built-up areas?**
+- **80 km/h**
