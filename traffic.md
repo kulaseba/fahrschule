@@ -214,3 +214,9 @@
 - ~~When the approaching vehicle wanting to turn left stops just before the middle of the crossroads~~
 - When this is forbidden by lane markings
 - When you notice that the approaching vehicle wanting to turn left wishes to turn behind your vehicle
+
+**While driving through a tunnel, you notice a fire in your vehicle. You are not able to exit the tunnel. What should you do?**
+- I bring the vehicle to a halt as far to the right-side of the roadway as possible or park it in an emergency lay-by and
+  - leave the key in the ignition
+  - switch off the engine
+  - turn on the hazard warning system

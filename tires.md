@@ -50,3 +50,7 @@
 - Throttle down, if necessary, steer against and brake cautiously
 - Stop, if possible, on the hard shoulder, switch on hazard warning lights and place the warning triangle
 - ~~Immediately apply the brakes fully and move over onto the hard shoulder~~
+
+**What can be the reason for a tire on the front axle wearing on one side more than the other?**
+- Track alignment is not in order
+- Steering axle is bent

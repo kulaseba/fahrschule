@@ -122,6 +122,17 @@
 - If possible, use a tow-bar
 - ~~The action of the foot brake is not impaired by the engine not running~~
 
+**A single-axle trailer has an actual gross weight of 600 kg. What is the minimum possible vertical load?**
+- ~~60 kg (= 10%)~~
+- 24 kg (= 4%)
+- ~~90 kg (= 15%)~~
+
+**You want to attach a trailer to your car. Where will you find the maximum permissible vertical loading of your car?**
+- In the
+  - ~~Registration certificate Part II (Motor Vehicle Title)~~
+  - Registration certificate Part I (Motor Vehicle Registration)
+  - operating manual
+
 ### Load
 
 > **2.5 m**: Max. height a load is allowed to project above of the vehicle. In other words, the load may not exceed a height of 2.5 m above the vehicle

@@ -182,3 +182,8 @@
 - Inappropriate speed
 - ~~Hesitant driving style~~
 - High risk readiness
+
+**What is the normal trial period?**
+- 2 years
+- ~~1 year~~
+- ~~3 years~~
